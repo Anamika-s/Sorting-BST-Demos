@@ -1,0 +1,7 @@
+C:\Users\Anamika\source\repos\SortingDemos\SortingDemos\obj\Debug\SortingDemos.csproj.AssemblyReference.cache
+C:\Users\Anamika\source\repos\SortingDemos\SortingDemos\obj\Debug\SortingDemos.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\SortingDemos\SortingDemos\bin\Debug\SortingDemos.exe.config
+C:\Users\Anamika\source\repos\SortingDemos\SortingDemos\bin\Debug\SortingDemos.exe
+C:\Users\Anamika\source\repos\SortingDemos\SortingDemos\bin\Debug\SortingDemos.pdb
+C:\Users\Anamika\source\repos\SortingDemos\SortingDemos\obj\Debug\SortingDemos.exe
+C:\Users\Anamika\source\repos\SortingDemos\SortingDemos\obj\Debug\SortingDemos.pdb
